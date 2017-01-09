@@ -1,0 +1,18 @@
+{
+  "name": "ascii-lines-sort",
+  "main": "./lib/ascii-lines-sort",
+  "version": "0.0.0",
+  "description": "Sorts lines by ascii character order",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "ascii-lines-sort:sort"
+  },
+  "repository": "https://github.com/VeraZab/ascii-lines-sort",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

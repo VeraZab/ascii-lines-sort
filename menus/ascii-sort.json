@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Ascii Lines Sort",
+        "command": "ascii-lines-sort:sort"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Ascii Lines Sort",
+          "submenu": [
+            {
+              "label": "Sort",
+              "command": "ascii-lines-sort:sort"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
