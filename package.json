@@ -1,10 +1,9 @@
 {
   "name": "ascii-lines-sort",
   "main": "./lib/ascii-lines-sort",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Sorts lines by ascii character order",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "ascii-lines-sort:sort"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
