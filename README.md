@@ -1,4 +1,4 @@
-# ascii-sort package
+# ascii-lines-sort package
 
 Sorts lines by ascii character order.
 Removes blank lines.
